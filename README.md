@@ -1,6 +1,3 @@
-Por supuesto, aquí tienes el archivo `README.md` en inglés:
-
-```markdown
 # AgeCalculator
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
